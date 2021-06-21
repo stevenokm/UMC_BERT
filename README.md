@@ -27,13 +27,13 @@ folder/
 ```
 * each file should follw following file format, and the inputs are readed line by line
 ``` html
-<doc id=SOME_IDs>
+<doc id=1> <!--- or "2", "3", ..., added by script or manual --->
 some plain texts line 1
 some plain texts line 2
 some plain texts line 3
 ....
 some plain texts line last
-</doc>
+</doc> <!--- added by script or manual --->
 ```
 * Note: the OSCAR corpus is used for test-run, users can replace any corpus follow the format above
 
