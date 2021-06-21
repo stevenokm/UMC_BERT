@@ -35,7 +35,7 @@ some plain texts line 3
 some plain texts line last
 </doc> <!--- added by script or manual --->
 ```
-* Note: the OSCAR corpus is used for test-run, users can replace any corpus follow the format above
+* Note: the OSCAR corpus is used for test-run, users can replace any corpus that follows the format above
 
 ## Running Logs
 
