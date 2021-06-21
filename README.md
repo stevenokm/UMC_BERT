@@ -102,13 +102,8 @@ some plain texts line last
       Total optimization steps = 3439
     Using deprecated `--per_gpu_train_batch_size` argument which will be removed in a future version. Using `--per_device_train_batch_size` is preferred.
 
+![#](https://progress-bar.dev/100/) [3439/3439 24:52, Epoch 1/1]
 
-
-
-<div>
-  ![Progress](https://progress-bar.dev/100/)
-  [3439/3439 24:52, Epoch 1/1]
-</div>
 <table border="1" class="dataframe">
 <thead>
   <tr style="text-align: left;">
