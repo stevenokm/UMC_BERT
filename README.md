@@ -106,7 +106,8 @@ some plain texts line last
 
 
 <div>
-  ![Progress](https://progress-bar.dev/3439/?scale=3439) [3439/3439 24:52, Epoch 1/1]
+  ![Progress](https://progress-bar.dev/100/)
+  [3439/3439 24:52, Epoch 1/1]
 </div>
 <table border="1" class="dataframe">
 <thead>
