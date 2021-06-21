@@ -25,7 +25,7 @@ folder/
 ...
 └── file_split_last
 ```
-* each file should follw following file format
+* each file should follw following file format, and the inputs are readed line by line
 ``` html
 <doc id=SOME_IDs>
 some plain texts line 1
@@ -35,3 +35,4 @@ some plain texts line 3
 some plain texts line last
 </doc>
 ```
+* Note: the OSCAR corpus is used for test-run, users can replace any corpus follow the format above
