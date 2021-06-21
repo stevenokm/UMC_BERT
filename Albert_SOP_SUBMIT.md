@@ -162,22 +162,9 @@ trainer.train()
 
 
 
+![#](https://progress-bar.dev/100/) [3439/3439 24:52, Epoch 1/1]
 
-    <div>
-        <style>
-            /* Turns off some styling */
-            progress {
-                /* gets rid of default border in Firefox and Opera. */
-                border: none;
-                /* Needs to be in here for Safari polyfill so background images work as expected. */
-                background-size: auto;
-            }
-        </style>
-
-      <progress value='3439' max='3439' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      [3439/3439 24:52, Epoch 1/1]
-    </div>
-    <table border="1" class="dataframe">
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
       <th>Step</th>
@@ -284,19 +271,6 @@ df.sample(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -394,19 +368,6 @@ df.loc[df.label == 0].sample(5)[['sentence', 'label']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
