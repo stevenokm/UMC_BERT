@@ -106,18 +106,7 @@ some plain texts line last
 
 
 <div>
-    <style>
-        /* Turns off some styling */
-        progress {
-            /* gets rid of default border in Firefox and Opera. */
-            border: none;
-            /* Needs to be in here for Safari polyfill so background images work as expected. */
-            background-size: auto;
-        }
-    </style>
-
-  <progress value='3439' max='3439' style='width:300px; height:20px; vertical-align: middle;'></progress>
-  [3439/3439 24:52, Epoch 1/1]
+  ![Progress](https://progress-bar.dev/3439/?scale=3439)[3439/3439 24:52, Epoch 1/1]
 </div>
 <table border="1" class="dataframe">
 <thead>
@@ -178,19 +167,6 @@ some plain texts line last
     Number of training sentences: 8,551
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -280,19 +256,6 @@ some plain texts line last
 #### Dataset Examples
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
